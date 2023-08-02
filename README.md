@@ -1,6 +1,6 @@
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px"></h1>
-<h2 align="center">I'm Anne Mariel</h2>
-<h3 align="center">a "Full Stack Developer" focusing on Java.</h3>
+<h2 align="center">I'm Anne Mariel,</h2>
+<h3 align="center">a Full Stack Developer focusing on Java.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=annemariel95&label=Profile%20views&color=0e75b6&style=flat" alt="annemariel95" /> </p>
 

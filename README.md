@@ -11,7 +11,7 @@
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Anne Mariel's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AnneMariel95&theme=monokai-metallian&hide_border=true"/>
   </a>
-  <p align="center"> With unwavering focus, the destination remain within reach. 🔥 </p>
+  <p align="center"> With unwavering focus, the destination remains within reach. 🔥 </p>
 </p>
 
 <br/>

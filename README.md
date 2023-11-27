@@ -1,6 +1,17 @@
-<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px"></h1>
-<h2 align="center">I'm Anne Mariel,</h2>
-<h3 align="center">a Full Stack Developer focusing on Java.</h3>
+<h1 align="center">Hi , I'm Anne Mariel! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=a+Full+Stack+Web+Developer;&center=true&width=500&height=50&font=georgia"></a>
+</p>
+
+## 🔥 Streak Stats
+
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Anne Mariel's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AnneMariel95&theme=monokai-metallian&hide_border=true"/>
+  </a>
+  <p align="center"> With unwavering focus, the destination remain within reach. 🔥 </p>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=annemariel95&label=Profile%20views&color=0e75b6&style=flat" alt="annemariel95" /> </p>
 
@@ -27,5 +38,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=annemariel95&show_icons=true&locale=en&layout=compact" alt="annemariel95" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=annemariel95&show_icons=true&locale=en" alt="annemariel95" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=annemariel95&" alt="annemariel95" /></p>
